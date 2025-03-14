@@ -1,6 +1,6 @@
 streamlit == 1.43.0 
 seaborn == 0.13.2
-pyplot can be installed separately unless matplotlib does not come with this
+matplotlib == 3.10.1
 scipy == 1.15.2
 numpy == 1.26.4
 pandas == 2.2.3
